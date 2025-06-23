@@ -3,4 +3,4 @@ A RAG system built from scratch, capable of answering questions about Pittsburgh
 
 Assignment 2 of CMU: Advanced NLP Spring 2024.
 
-A work in Progress!
+**A Work In Progress!**
