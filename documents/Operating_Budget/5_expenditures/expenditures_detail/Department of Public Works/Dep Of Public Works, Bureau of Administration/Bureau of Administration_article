@@ -1,0 +1,88 @@
+Expenditures Details - Department of Public Works, Bureau of Administration
+
+
+
+- Table for  Position Summary
+
+Unnamed: 0,2023,Rate/,Hours/,2023.1,2024,Rate/.1,Hours/.1,2024.1
+Title,FTE,Grade,Months,Budget,FTE,Grade,Months,Budget
+Director,1,35G,12,"121,707",1,35G,12,"125,358"
+Deputy Director,1,35E,12,"110,579",1,35E,12,"113,897"
+"Assistant Director, Administration",1,32G,12,"104,360",1,32G,12,"107,490"
+"Manager, Personnel & Finance",1,31E,12,"92,910",1,31E,12,"95,697"
+Fiscal Supervisor,1,27G,12,"85,801",1,27G,12,"88,375"
+Department Business Administrator,—,26E,—,—,1,26E,12,"77,981"
+Logistics Manager,1,26E,12,"75,710",—,26E,—,—
+Manager of Training & Development,1,26E,12,"75,710",—,26E,—,—
+Operations Manager,—,26E,—,—,1,26E,12,"77,981"
+Inspections Supervisor,1,25E,12,"72,627",1,25E,12,"74,806"
+Operational Performance Analyst,1,25E,12,"72,627",1,25E,12,"74,806"
+Chief Clerk 2,1,22E,12,"64,251",1,22E,12,"66,179"
+Executive Assistant,1,20E,12,"59,065",1,20E,12,"60,837"
+Administrator 2,1,19E,12,"56,652",1,19E,12,"58,352"
+Anti-Litter Inspector,2,18E,12,"108,520",2,18E,12,"111,776"
+Chief Clerk 1,1,18E,12,"54,260",1,18E,12,"55,888"
+Training & Development Coordinator,1,18E,12,"54,260",1,18E,12,"55,888"
+Inspector II,3,U08-B,12,"162,163",3,U08-B,12,"167,028"
+Secretary,1,15G,12,"51,824",1,15G,12,"53,380"
+Inspector I,2,U05-F,12,"89,978",2,U05-F,12,"92,678"
+"Assistant 1, Inventory",1,U02-N,12,"42,664",—,U02-N,—,—
+Administrative Specialist,1,11E,12,"41,623",1,11E,12,"42,870"
+Public Works Program Specialist,1,11E,12,"41,623",1,11E,12,"42,870"
+"Technician, Payroll",1,U02-K,12,"40,332",—,U02-K,—,—
+Total Full-Time Permanent Positions,26,,,"$1,679,246",24,,,"$ 1,644,137"
+Intern, —,13.25,"1,731" ,"$ 22,937",—, 13.25 , "1,736", "$ 23,000"
+"Temporary, Part-Time, and Seasonal Allowances",—,,, "$ 22,937",—,,,"$ 23,000"
+Total Full-Time Permanent Positions, 26 ,,,"$ 1,120,655" ,24, ,,"$ 1,644,137"
+"Temporary, Part-Time, and Seasonal Allowances", —,,, "22,937" ,—,,,"23,000"
+Vacancy Allowance, —,,, "(30,375)", —,,,"(66,686)"
+Total Full-Time Positions and Net Salaries ,26 ,,,"$ 1,113,217" ,24,,, $ 1,600,451"
+--------------------
+
+
+Table for Subclass Detail
+
+Unnamed: 0,2022,2023,2024,Increase/,%
+,Actual,Budget,Budget,(Decrease),Change
+Expenditures,,,,,
+51 - PERSONNEL-SALARIES & WAGES $,"918,187","1,679,819","1,608,004","(71,815)",(4.3)%
+51101 - Regular,"918,185","1,672,268","1,600,452","(71,816)",
+51207 - Leave Buyback,2,—,—,—,
+51401 - Premium Pay,—,"7,551","7,551",—,
+52 - PERSONNEL-EMPLOYEE BENEFITS,"291,873","457,886","384,334","(73,552)",(16.1)%
+52101 - Health Insurance,"180,035","267,787","206,325","(61,462)",
+52111 - Other Insurance/Benefits,"22,373","34,510","30,233","(4,277)",
+52201 - Social Security,"67,298","132,589","124,776","(7,813)",
+52601 - Personal Leave Buyback,"19,722","23,000","23,000",—,
+52602 - Tuition Reimbursement,"2,445",—,—,—,
+53 - PROFESSIONAL & TECHNICAL SERVICES,"1,103","52,000","52,000",—,—%
+53301 - Workforce Training,"1,103","52,000","52,000",—,
+54 - PROPERTY SERVICES,—,—,"11,071,634","11,071,634",n/a
+54601 - Electric,—,—,"4,900,000","4,900,000",
+54603 - Natural Gas,—,—,"1,000,000","1,000,000",
+54605 - Sewer,—,—,"10,000","10,000",
+54607 - Steam,—,—,"755,252","755,252",
+54609 - Water,—,—,"4,406,382","4,406,382",
+56 - SUPPLIES,"10,183","16,344","18,594","2,250",13.8%
+56101 - Office Supplies,"4,395","15,344","15,344",—,
+56151 - Operational Supplies,"5,788","1,000","3,250","2,250",
+58 - MISCELLANEOUS,—,"20,000",—,"(20,000)",(100)%
+58101 - Grants,—,"20,000",,"(20,000)",
+Expenditures Total $,"1,221,346","2,226,049","13,134,566","4,736,883",490.0%
+--------------------
+Budget lines for utility payments were moved from the Bureau of Facilities cost center.
+
+
+- Table for Five Year Forecast
+
+Unnamed: 0,2024,2025,2026,2027,2028
+Expenditures,,,,,
+51 - PERSONNEL-SALARIES & WAGES,"1,608,004","1,628,774","1,644,765","1,693,220","1,743,127"
+52 - PERSONNEL-EMPLOYEE BENEFITS,"384,334","398,733","413,421","431,933","451,416"
+53 - PROF & TECHNICAL SERVICES,"52,000","24,000","24,000","24,000","24,000"
+54 - PROPERTY SERVICES,"11,071,634","11,071,634","11,071,634","11,071,634","11,071,634"
+56 - SUPPLIES,"18,594","12,750","12,750","12,750","12,750"
+58 - MISCELLANEOUS,—,—,—,—,—
+Total,"13,134,566","13,135,891","13,166,570","13,233,537","13,302,927"
+% Change from Prior Year,27.8%,—%,0.2%,0.5%,0.5%
+-----------------------
