@@ -16,10 +16,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATIC_DIR = os.path.join(BASE_DIR, "..", "static")
 TEMPLATES_DIR = os.path.join(BASE_DIR, "..", "templates")
 
-# Mount static folder (for JS)
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
-# Use Jinja2 for HTML templates
 templates = Jinja2Templates(directory=TEMPLATES_DIR)
 
 @app.get("/", response_class=HTMLResponse)
@@ -29,9 +27,7 @@ async def get_home(request: Request):
 @app.post("/chat")
 async def chat_endpoint(chat: ChatRequest):
     user_message = chat.message
-    # Replace this with your actual chatbot logic
 
     response = get_response(user_message)
-    #response = f"Echo : {user_message}"
 
     return JSONResponse({"response": response})
